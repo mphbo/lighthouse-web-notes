@@ -2,4 +2,4 @@
 
 ## Summary
 
-This repository is for all of my notes taken at Lighthouse labs for their Web Development Bootcamp.
+This repository is for [Logan](https://github.com/mphbo) to take all of his notes at Lighthouse labs for their Web Development Bootcamp.
